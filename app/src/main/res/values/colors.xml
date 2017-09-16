@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#242729</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#f48024</color>
+    <color name="searchBox">#FAFAFB</color>
+    <color name="activityBackgroundWhite">#FFFFFF</color>
+    <color name="titleQuestion">#07C</color>
+    <color name="tagQuesiton">#39739d</color>
+    <color name="bgTagQuestion">#E1ECF4</color>
+    <color name="answer">#5EBA7D</color>
+
+    <color name="white_hint_text_disabled">#4DFFFFFF</color>
+    <color name="white_primary_text">#FFF</color>
+    <color name="white_secondary_text">#B3FFFFFF</color>
+    <color name="while_alpha_60">#99ffffff</color>
+    <color name="black_hint_text_disabled">#42000000</color>
+    <color name="black_primary_text">#1D1D26</color>
+    <color name="black_secondary_text">#801D1D26</color>
+    <color name="divider">#1E000000</color>
+</resources>
